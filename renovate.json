@@ -1,0 +1,6 @@
+{
+  "regexManagers": [{
+    "fileMatch": ["\\.pp$"],
+    "matchStrings": ["profile::(?<depName>.*?)::common::version: (?<currentValue>.*?) #(?<datasource>.*?): (?<lookupName>.*?)\n"]
+  }]
+}
