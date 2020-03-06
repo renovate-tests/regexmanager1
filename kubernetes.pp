@@ -1,1 +1,1 @@
-profile::kubernetes::common::version: 1.10.2 #github-releases: kubernetes/kubernetes
+profile::kubernetes::common::version: v1.17.3 #github-releases: kubernetes/kubernetes
